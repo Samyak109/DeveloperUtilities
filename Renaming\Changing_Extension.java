@@ -1,8 +1,6 @@
-package com;
 import java.io.*;
-import java.util.Arrays;
 
-public class fun {
+public class Rename {
     public static void main(String[] args) {
         String absPath = "C:\\Users..";//your folder path
         File dir = new File(absPath);
