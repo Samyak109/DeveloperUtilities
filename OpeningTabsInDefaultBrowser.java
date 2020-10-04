@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Trial {
+class OpenTabs {
     public static void main(String[] args) throws IOException {
 //        String os = System.getProperty("os.name").toLowerCase();
         Runtime rt = Runtime.getRuntime();
